@@ -1,0 +1,47 @@
+body{
+    background-color:cadetblue;
+}
+button{
+    width: 33%;
+    height: 50px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 5px;
+
+}
+button:hover{
+    background-color: bisque;
+    transition-duration: 200ms;
+
+}
+#ciekawosteczka{
+    float: left;
+    width: 32%;
+    border: 2px;
+    border-style: solid;
+    border-color: aqua;
+    color: bisque;
+    margin-left: 1%;
+    height: 15%;
+    border-radius: 5px;
+}
+#los{
+    float: left;
+    width: 100%;
+}
+#info{
+    float: left;
+    width: 100%;
+}
+#Wybor{
+    float: left;
+    width: 100%;
+}
+h2{
+    color: bisque;
+    font-family: 'Times New Roman';
+}
+#numer{
+    border-radius: 3px;
+    width: 5%;
+}
